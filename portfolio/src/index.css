@@ -10,3 +10,15 @@ a {
   text-decoration: none;
   color: white;
 }
+
+a:hover{
+  color: #8e61aaab;
+}
+
+.about-text{
+  max-width:  70%;
+  height: auto;
+  margin: auto;
+  margin-top: 30%;
+  justify-content: center;
+}

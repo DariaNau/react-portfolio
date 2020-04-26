@@ -30,6 +30,9 @@ function Projects() {
       <ProjectCard title="React Employee Search Tool" />
       <ProjectCard title="Get Fit App" />
       <ProjectCard title="Google Books" />
+      <ProjectCard title="React Employee Search Tool" />
+      <ProjectCard title="Get Fit App" />
+      <ProjectCard title="Google Books" />
     </div>
   );
 }

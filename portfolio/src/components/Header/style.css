@@ -1,0 +1,12 @@
+.list-group-item {
+    background-color: transparent;
+    margin: 0 auto;
+    font-family: 'PT Sans Caption', sans-serif;
+}
+
+#profile-img {
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    max-width: 70%;
+}

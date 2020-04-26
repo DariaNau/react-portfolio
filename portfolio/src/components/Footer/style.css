@@ -1,0 +1,35 @@
+.footer {
+    align-items: center;
+    /* background-image: linear-gradient(
+      to bottom,
+      rgba(1, 7, 10, 0.164),
+      rgba(1, 7, 10, 0.411)
+    ); */
+    /* background-color: rgba(159, 180, 116, 0.144); */
+  }
+  
+  /* .footer p {
+      padding-top: 15px;
+      padding-bottom: 0%;
+      margin: 0%;
+  }
+  
+  .show {
+    height: 4em;
+  }
+  
+  
+  .footer-text {
+    color: #ccccc7;
+    margin: 0 auto;
+    opacity: 0;
+    transition: opacity 0.5s linear 1s;
+  }
+  
+  .visible {
+    opacity: 1;
+  }
+  
+  .sparkle {
+    color: #f8f8f2;
+  } */
