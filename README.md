@@ -10,7 +10,7 @@ My portfolio has more details about my professional journey including the follow
 * my current CV.
 
 ## Link
-Please visit my portfolio page at https://darianau.github.io/portfolio/.
+Please visit my portfolio page at https://secret-taiga-85532.herokuapp.com/.
 
 ## License
 MIT License
