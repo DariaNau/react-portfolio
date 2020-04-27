@@ -1,0 +1,26 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "Javascript, HTML and CSS portfolio that was turned into a component-based website using React.\r My portfolio has more details about my professional journey including the following:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "build": "cd client && npm run build",
+    "heroku-postbuild": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DariaNau/react-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DariaNau/react-portfolio/issues"
+  },
+  "homepage": "https://github.com/DariaNau/react-portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

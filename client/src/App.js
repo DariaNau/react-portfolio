@@ -6,7 +6,7 @@ import "./App.css";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
-import { Row, Container } from "../src/components/Grid";
+import { Row, Container } from "./components/Grid";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
