@@ -12,14 +12,16 @@ function Header() {
         {location.pathname === "/" ?
         <div className="side-component">
         <ul className="list-group list-group-flush">
-            <li className="list-group-item">Node</li>
-            <li className="list-group-item">Express</li>
-            <li className="list-group-item">React</li>
+            <li className="list-group-item skills">MongoDB</li>
+            <li className="list-group-item skills">Express</li>
+            <li className="list-group-item skills">React</li>
+            <li className="list-group-item skills">Node</li>
             {/* <li className="list-group-item">ORM</li>
             <li className="list-group-item">Web API</li> */}
-            <li className="list-group-item">PWA</li>
-            <li className="list-group-item">SQL</li>
-            <li className="list-group-item">MongoDB</li>
+            <li className="list-group-item skills">PWA</li>
+            <li className="list-group-item skills">SQL</li>
+            <li className="list-group-item skills">MVC</li>
+            <li className="list-group-item skills">Git</li>
             {/* <li className="list-group-item">MERN Stack</li> */}
         </ul>
         </div>

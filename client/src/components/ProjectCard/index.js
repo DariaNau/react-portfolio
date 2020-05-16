@@ -9,13 +9,13 @@ function ProjectCard(props) {
         <div className="card" id="front">
         <img src={props.src} height="80%" className="card-img-top" alt={props.alt} />
           <div className="card-body">
-            <p className="card-text">{props.title}</p>
+            <p style={{color: "lightgrey"}} className="card-text">{props.title}</p>
           </div>
         </div>
         <div className="card" id="back">
           <div className="card-body">
-            <a style={{textDecoration: "none"}} href={props.deployed}>{props.title} Demo</a>
-            <p className="card-text">{props.description}</p>
+            <a id="liveapp" style={{textDecoration: "none"}} href={props.deployed}>{props.title} - Live App</a>
+            <p className="card-text" style={{fontSize: "14px"}}>{props.description}</p>
             <a style={{textDecoration:"none"}} className="fab fa-github fa-3x" href={props.github}></a>
           </div>
         </div>

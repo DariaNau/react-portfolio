@@ -1,38 +1,84 @@
 import React from "react";
 import ProjectCard from "../components/ProjectCard";
-// import tutorimg from "./assets/tutorme.gif"
-
+// import "./assets"
 
 function Projects() {
   return (
     <div className="card-group">
       {/* <h1 className="subtopic">My Education</h1> */}
       <ProjectCard
+        title="Bandwagon"
+        src="assets/BandwagonBK.png"
+        alt="Bandwagon"
+        github="https://github.com/alexgignilliat/bandwagon"
+        deployed="https://bandwagon-project.herokuapp.com/"
+        description="A digital music streaming platform designed with listeners and artists in mind."
+      />
+      <ProjectCard
         title="TutorMe"
         src="assets/tutorme.gif"
         alt="full-stack app demo"
         github="https://github.com/bcancel91/Project_2/"
         deployed="https://tutor-me-gq.herokuapp.com"
-        description="TutorMe - is a Full Stack App "
+        description="An online tutoring service that is available to you from anywhere."
       />
       <ProjectCard
         title="Weather Dashboard"
-        src="assets"
-        alt="Javascript"
+        src="assets/bg.png"
+        alt="weather app"
         github="https://darianau.github.io/weather-dashboard/"
         deployed="https://github.com/DariaNau/weather-dashboard"
-        description="Weather app desc"
+        description="The App runs in the browser and features dynamically updated HTML and CSS powered by jQuery."
       />
-      <ProjectCard title="Food & Wine Pairing" />
-      <ProjectCard title="Burger Devouring" />
-      <ProjectCard title="Employee Management" />
-      <ProjectCard title="DayPlanner" />
-      <ProjectCard title="React Employee Search Tool" />
-      <ProjectCard title="Get Fit App" />
-      <ProjectCard title="Google Books" />
-      <ProjectCard title="React Employee Search Tool" />
-      <ProjectCard title="Get Fit App" />
-      <ProjectCard title="Google Books" />
+      <ProjectCard
+        title="Food & Wine Pairing"
+        src="assets/winedine.png"
+        alt="wine project"
+        github="https://github.com/DariaNau/group-project-wine-app"
+        deployed="https://darianau.github.io/group-project-wine-app/"
+        description="The app offers suggestions on food and wine pairings based on user’s choice of grape varietal."
+      />
+      <ProjectCard
+        title="PWA Budget"
+        src="assets/pwabudget.png"
+        alt="wine project"
+        github="https://github.com/DariaNau/pwa-budget"
+        deployed="https://secret-tor-45178.herokuapp.com/"
+        description="Online or not - this app will let you keep track of your funds."
+      />
+      <ProjectCard
+        title="React Directory"
+        src="assets/directory-react.png"
+        alt="react api project"
+        github="https://github.com/DariaNau/pwa-budget"
+        deployed="https://secret-tor-45178.herokuapp.com/"
+        description="Online or not - this app will let you keep track of your funds."
+      />
+      <ProjectCard
+        title="Burger ORM"
+        src="assets/burger-app.jpg"
+        alt="mySQ node express handlebars app"
+        github="https://github.com/DariaNau/pwa-budget"
+        deployed="https://secret-tor-45178.herokuapp.com/"
+        description="Online or not - this app will let you keep track of your funds."
+      />
+      <ProjectCard
+        title="Employee Management CLI"
+        src="assets/team-generator.png"
+        alt="node cli"
+        github="https://github.com/DariaNau/template-engine-employee-summary"
+        deployed="https://github.com/DariaNau/template-engine-employee-summary/blob/master/assets/team-generator-demo.gif"
+        description="Online or not - this app will let you keep track of your funds."
+      />
+
+      <ProjectCard
+        title="Day Planner"
+        src="assets/dayplanner.jpg"
+        alt="javascript app"
+        github="https://github.com/DariaNau/pwa-budget"
+        deployed="https://secret-tor-45178.herokuapp.com/"
+        description="Online or not - this app will let you keep track of your funds."
+      />
     </div>
   );
 }

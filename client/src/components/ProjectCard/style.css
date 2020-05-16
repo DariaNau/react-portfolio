@@ -23,6 +23,10 @@
   transform: rotateY(180deg);
 }
 
+#liveapp {
+  font-size: 18px
+}
+
 #front, #back {
   position: absolute;
   width: 100%;
@@ -32,7 +36,8 @@
 }
 
 #front {
-  background-color: rgba(255, 255, 255, 0.788);
+  /* background: rgb(116, 109, 121); */
+  background: linear-gradient(90deg, rgba(25, 22, 27, 0.808) 0%, rgba(70, 65, 70, 0.788) 50%, rgba(17, 15, 13, 0.842) 100%);
   color: black;
 }
 
