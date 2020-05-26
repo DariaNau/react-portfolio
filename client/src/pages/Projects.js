@@ -50,17 +50,17 @@ function Projects() {
         title="React Directory"
         src="assets/directory-react.png"
         alt="react api project"
-        github="https://github.com/DariaNau/pwa-budget"
-        deployed="https://secret-tor-45178.herokuapp.com/"
-        description="Online or not - this app will let you keep track of your funds."
+        github="https://github.com/DariaNau/react-employee-directory"
+        deployed="https://young-sierra-35107.herokuapp.com/"
+        description="Simple react search of randomuser.me API database."
       />
       <ProjectCard
         title="Burger ORM"
         src="assets/burger-app.jpg"
         alt="mySQ node express handlebars app"
-        github="https://github.com/DariaNau/pwa-budget"
-        deployed="https://secret-tor-45178.herokuapp.com/"
-        description="Online or not - this app will let you keep track of your funds."
+        github="https://github.com/DariaNau/node-express-handlebars"
+        deployed="https://frozen-brushlands-88386.herokuapp.com/"
+        description="MVC structured full stack application that won't leave you hungry!"
       />
       <ProjectCard
         title="Employee Management CLI"
@@ -68,16 +68,16 @@ function Projects() {
         alt="node cli"
         github="https://github.com/DariaNau/template-engine-employee-summary"
         deployed="https://github.com/DariaNau/template-engine-employee-summary/blob/master/assets/team-generator-demo.gif"
-        description="Online or not - this app will let you keep track of your funds."
+        description="Quick and easy way to create a visual representation of your database."
       />
 
       <ProjectCard
         title="Day Planner"
         src="assets/dayplanner.jpg"
         alt="javascript app"
-        github="https://github.com/DariaNau/pwa-budget"
-        deployed="https://secret-tor-45178.herokuapp.com/"
-        description="Online or not - this app will let you keep track of your funds."
+        github="https://github.com/DariaNau/day-planner"
+        deployed="https://darianau.github.io/day-planner/."
+        description="Color-coded tool to keep your day productive without looking at the clock."
       />
     </div>
   );
