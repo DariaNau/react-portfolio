@@ -52,7 +52,7 @@ function Projects() {
         alt="react api project"
         github="https://github.com/DariaNau/react-employee-directory"
         deployed="https://young-sierra-35107.herokuapp.com/"
-        description="Simple react search of randomuser.me API database."
+        description="Simple react search of randomuser API database."
       />
       <ProjectCard
         title="Burger ORM"
