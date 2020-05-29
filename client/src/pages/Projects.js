@@ -16,7 +16,7 @@ function Projects() {
       />
       <ProjectCard
         title="TutorMe"
-        src="assets/tutorme.gif"
+        src="assets/tutorme.png"
         alt="full-stack app demo"
         github="https://github.com/bcancel91/Project_2/"
         deployed="https://tutor-me-gq.herokuapp.com"
@@ -63,14 +63,13 @@ function Projects() {
         description="MVC structured full stack application that won't leave you hungry!"
       />
       <ProjectCard
-        title="Employee Management CLI"
+        title="Template Engine"
         src="assets/team-generator.png"
         alt="node cli"
         github="https://github.com/DariaNau/template-engine-employee-summary"
         deployed="https://github.com/DariaNau/template-engine-employee-summary/blob/master/assets/team-generator-demo.gif"
-        description="Quick and easy way to create a visual representation of your database."
+        description="Quick and easy Node CLI to create a visual representation of your database."
       />
-
       <ProjectCard
         title="Day Planner"
         src="assets/dayplanner.jpg"

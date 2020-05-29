@@ -7,3 +7,9 @@
     display: inline;
     margin: 3%;
   }
+
+  i:hover{
+    /* color: #c595e2d8; */
+    font-size: 56px;
+    padding: 7px;
+  }

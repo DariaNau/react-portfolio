@@ -3,6 +3,12 @@
   justify-content: center;
 }
 
+#liveapp:hover{
+  /* color: #ecbb4fd8; */
+  font-size: 19px;
+  padding: 7px;
+}
+
 .flip-card {
   width: 320px;
   height: 220px;
@@ -24,7 +30,11 @@
 }
 
 #liveapp {
-  font-size: 18px
+  font-size: 18px;
+}
+
+#ghLink{
+  text-decoration: none;
 }
 
 #front, #back {
@@ -38,11 +48,11 @@
 #front {
   /* background: rgb(116, 109, 121); */
   background: linear-gradient(90deg, rgba(25, 22, 27, 0.808) 0%, rgba(70, 65, 70, 0.788) 50%, rgba(17, 15, 13, 0.842) 100%);
-  color: black;
+  color:lightgray;
 }
 
 #back {
-  background-color: #160322ab;
-  color: white;
+  background-color:  #c495e241;
+  color: lightgray;
   transform: rotateY(180deg);
 }

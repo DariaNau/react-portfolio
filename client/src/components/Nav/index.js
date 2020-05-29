@@ -6,7 +6,7 @@ import Logo from "../Logo"
 function NavBar() {
   const location = useLocation();
   return (
-      <nav class="navbar sticky-top">
+      <nav className="navbar sticky-top">
         <ul className="navbar nav">
           <Logo />
           <li className="nav-item">
