@@ -53,7 +53,7 @@ function About() {
             Email me at{" "}
             <a href="mailto:dariagnaumova@gmail.com">dariagnaumova@gmail.com</a>{" "}
             Or view my{" "}
-            <a href="assets/Daria Naumova CV FS.docs" target="_blank">
+            <a href="assets/Daria Naumova CV Web Dev.pdf" target="_blank">
               CV
             </a>
             .
