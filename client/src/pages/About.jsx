@@ -35,17 +35,17 @@ function About() {
         </FadeInSection>
         <FadeInSection>
           <p>
-            Over 7 years of international experience in business management
-            has prepared me for open and clear communication to always benefit
-            teamwork and promote customer-focused perspectives. 
+            Over five years of international working experience in business
+            management has prepared me for open and clear communication to
+            always benefit teamwork and promote customer-focused perspectives.
           </p>
         </FadeInSection>
         <FadeInSection>
           <p>
-            I have then spent 2 years as a remote IT specialist and social
-            media assistant which has equipped me with a solid understanding of
-            modern marketing technologies and has led me to the world of web
-            development.
+            After that I have worked as an IT assistant which has
+            equipped me with a solid understanding of modern web technologies
+            and has led me to the world of full-stack web development where I
+            spent the last two years learning and doing project work.
           </p>
         </FadeInSection>
         <FadeInSection>
