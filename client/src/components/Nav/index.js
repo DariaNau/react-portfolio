@@ -7,7 +7,7 @@ function NavBar() {
   const location = useLocation();
   return (
       <nav className="navbar sticky-top">
-        <ul className="navbar nav">
+        <ul id="flex" className="navbar nav">
           <Logo />
           <li className="nav-item">
             <Link
